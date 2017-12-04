@@ -1,0 +1,44 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\KinectView\Scripts\BodySourceView.cs">
+    <Files>
+      <File FileName="Assets\KinectView\Scripts\BodySourceView.cs" Line="194" Column="101" />
+      <File FileName="Assets\KinectView\Scripts\BodySourceManager.cs" Line="23" Column="37" />
+      <File FileName="Assets\Standard Assets\Windows\Kinect\Joint.cs" Line="7" Column="16" />
+      <File FileName="Assets\Standard Assets\Windows\Kinect\TrackingState.cs" Line="17" Column="1" />
+      <File FileName="Assets\Standard Assets\Windows\Kinect\CameraSpacePoint.cs" Line="10" Column="5" />
+      <File FileName="Assets\Standard Assets\Windows\Kinect\JointOrientation.cs" Line="10" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KinectTest" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="KinectView" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="BodySourceView.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Assembly-CSharp-firstpass" expanded="True">
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Windows" expanded="True">
+                  <Node name="Kinect" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="KinectTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

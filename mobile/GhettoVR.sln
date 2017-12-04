@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhettoVR.CSharp", "GhettoVR.CSharp.csproj", "{5157BA34-79AE-74B2-07D1-8F289998C87A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhettoVR.CSharp.Editor", "GhettoVR.CSharp.Editor.csproj", "{67F66DDA-E210-F6EE-DA0D-DDB1137074D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5157BA34-79AE-74B2-07D1-8F289998C87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5157BA34-79AE-74B2-07D1-8F289998C87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5157BA34-79AE-74B2-07D1-8F289998C87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5157BA34-79AE-74B2-07D1-8F289998C87A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F66DDA-E210-F6EE-DA0D-DDB1137074D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F66DDA-E210-F6EE-DA0D-DDB1137074D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F66DDA-E210-F6EE-DA0D-DDB1137074D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F66DDA-E210-F6EE-DA0D-DDB1137074D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
