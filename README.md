@@ -11,6 +11,8 @@ It was built using Unity 3D along with Google Cardboard and Microsoft Kinect V2 
 In order to use this, the mobile part has to be compiled and ran on an Android phone (iOS might work, too, but was not tested).
 After running the Android app, the Kinect app has to be started and connected to the phone app using its IP address.
 
+Remember to start up the Android app facing the Kinect, so the orientation of the VR scene is tracked properly.
+
 
 ### *Note*
 The Android app is not optimized, so it requires a fairly powerful phone. It was tested on a Nexus 6p (which fared fairly well, but overheated pretty fast and throttled down) and on a Google Pixel (which fared much better, but still had issues over time).
